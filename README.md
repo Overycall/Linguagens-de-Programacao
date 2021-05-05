@@ -1,2 +1,2 @@
-# Linguagens-de-Programacao
-C, Java, HTML, CSS e JavaScript.
+# Linguagens-C
+Programas desenvolvidos em C
