@@ -1,2 +1,2 @@
-# Linguagens-C
-Programas desenvolvidos em C
+# Linguagens-C-Java
+Programas desenvolvidos em C e Java
